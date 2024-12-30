@@ -8,7 +8,8 @@ This project implements a simple command-line To-Do list application in Rust. It
 - Mark tasks as completed.
 - View all tasks.
 - Save tasks to a file and load them back from a file using JSON serialization.
-  The application uses basic Rust concepts such as structs, enums, and collections, as well as file I/O and serialization.
+
+The application uses basic Rust concepts such as structs, enums, and collections, as well as file I/O and serialization.
 
 ## Features
 
