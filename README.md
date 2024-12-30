@@ -140,3 +140,7 @@ cargo run
 - **User Authentication**:
 
   - Implement user authentication to manage individual task lists.
+
+## Contributing
+
+Contributions are welcome! Feel free to open an issue or submit a pull request with suggestions or improvements.
